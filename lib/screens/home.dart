@@ -14,7 +14,7 @@ class HomeScreenState extends State<HomeScreen> {
     // TODO: implement build
     return Scaffold(
       appBar: AppBar(
-        title: Text('MamasApp'),
+        title: Text('Flutter MamasApp'),
       ),
       drawer: Drawer(
         child: ListView(
